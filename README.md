@@ -22,25 +22,58 @@ My projects span **software development, data processing, SQL, databases, machin
 
 Currently, I'm building projects to strengthen my engineering skills and create a strong portfolio for **software and data-focused internships and entry-level opportunities**.
 
-🛠️ Tech Stack
-💻 Software Engineering & Development
+---
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,react,nodejs,express,tailwind,git,github,vscode" /> </p>
+## 🧰 Languages & Tools
 
-📊 Data Science & Analytics
+### Languages
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,jupyter" /> </p>
+<p align="left">
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+  <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a>
+  <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" /></a>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</p>
 
-Also: SQL · R · Power BI · Tableau
+### Web Development
 
-🗄️ Databases & Data Engineering
+<p align="left">
+  <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express" /></a>
+  <a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+</p>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=mongodb,postgresql,sqlite" /> </p>
+### Data Science & Analytics
 
-Also: ETL · Data Processing · Database Design · SQL Analytics
+<p align="left">
+  <a href="https://pandas.pydata.org/"><img src="https://skillicons.dev/icons?i=pandas" /></a>
+  <a href="https://numpy.org/"><img src="https://skillicons.dev/icons?i=numpy" /></a>
+  <a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+  <a href="https://matplotlib.org/"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>
+  <a href="https://jupyter.org/"><img src="https://skillicons.dev/icons?i=jupyter" /></a>
+</p>
 
-🎨 Design
+**Analytics:** Power BI · Tableau
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=figma" /> </p>
+### Databases
 
-Also: Canva
+<p align="left">
+  <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://skillicons.dev/icons?i=sqlite" /></a>
+</p>
+
+### Development Tools
+
+<p align="left">
+  <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+  <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" /></a>
+</p>
+
+---
